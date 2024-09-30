@@ -1,0 +1,26 @@
+{
+  "trainers": [
+    {
+      "id": "65145028-c761-429d-a16b-fd41662dd793",
+      "name": "Willis Schamberger"
+    },
+    { "id": "82a2bf59-8e9b-4e6c-8515-7783be175baa", "name": "Henry O'Conner" },
+    {
+      "id": "d2b16518-cb01-42b1-970a-a5337dffc155",
+      "name": "Miss Linda Conroy"
+    },
+    { "id": "312bcc00-61b5-4262-98d1-ee6657f73397", "name": "Randy Nicolas" },
+    { "id": "c109eb6d-f55d-470f-9dcb-6481f694402f", "name": "Bertha Kemmer" },
+    {
+      "id": "18cf411a-33d0-4e43-aa27-65624633753e",
+      "name": "Miss Bonnie Pacocha"
+    },
+    { "id": "3315fe9b-f9c0-4d3b-b695-1d8574a34d08", "name": "Jeanne Quigley" },
+    {
+      "id": "fdfbe3be-3bea-4a0f-8a7a-34b1ce2e6574",
+      "name": "Kenneth Satterfield"
+    },
+    { "id": "13202457-ad04-420d-9da2-2274a986fd94", "name": "Belinda Kutch" },
+    { "id": "431934b0-27e5-4495-81a3-3885a04a9d5b", "name": "Brandi Herman I" }
+  ]
+}
